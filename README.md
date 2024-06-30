@@ -8,7 +8,7 @@
 
 > ### Links
 
-- Popis práce na projektu: <https://miu-cz.github.io/My_works/Yandex/>
+- Popis práce na projektu: <https://miu-cz.github.io/My_works/Yandex/readme.md>
 - GitHub: <https://github.com/MIU-cz/My_works/tree/master/Yandex>
 - Deploy: <https://miu-cz.github.io/My_works/Yandex/>
 
@@ -21,7 +21,7 @@
 
 > ### Links
 
-- Popis práce na projektu: <https://miu-cz.github.io/My_works/inzio-search-form/>
+- Popis práce na projektu: <https://miu-cz.github.io/My_works/inzio-search-form/readme.md>
 - GitHub: <https://github.com/MIU-cz/My_works/tree/master/INZIO-search-form>
 - Deploy: <https://miu.jecool.net/new_sites/INZIO-search-form/index.html>
 
@@ -35,7 +35,7 @@
 
 > ### Links
 
-- Popis práce na projektu: <https://miu-cz.github.io/My_works/FAPI-currency-form/>
+- Popis práce na projektu: <https://miu-cz.github.io/My_works/FAPI-currency-form/readme.md>
 - GitHub: <https://github.com/MIU-cz/My_works/tree/master/FAPI-currency-form>
 - Deploy: <https://miu.jecool.net/new_sites/FAPI-currency-form/index.html>
 
